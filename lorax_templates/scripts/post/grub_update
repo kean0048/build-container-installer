@@ -1,1 +1,5 @@
-systemctl set-default multi-user.target
+<%page args="image_repo, _image_repo_double_escaped, image_name, image_signed, image_tag, _rhel, version"/>
+
+if [[ ${version} -ge 39 ]];then
+	systemctl set-default multi-user.target
+fi
