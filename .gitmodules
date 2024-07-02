@@ -1,6 +1,6 @@
 [submodule "external/fedora-lorax-templates"]
 	path = external/fedora-lorax-templates
-	url = https://pagure.io/fedora-lorax-templates.git
+	url = https://github.com/kean0048/fedora-lorax-templates-for-legion.git
 	branch = f40
 [submodule "external/lorax"]
 	path = external/lorax
