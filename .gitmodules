@@ -4,5 +4,4 @@
 	branch = f40
 [submodule "external/lorax"]
 	path = external/lorax
-	url = https://github.com/kean0048/lorax-for-legion.git
-	branch = f40-branch
+	url = https://github.com/weldr/lorax.git
